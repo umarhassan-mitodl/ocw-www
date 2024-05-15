@@ -17,5 +17,3 @@ title: Alberta Studies Test
 uid: cf159883-e56e-4061-83f3-802af42eea76
 ---
 Test body
-
-{{< resource uuid="62e9b6e3-526a-404a-beb8-f23fa5dd1320" >}}
