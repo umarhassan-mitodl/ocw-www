@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: 10e03c44-cf7a-4198-89a7-4544932d33b0
+  name: test
+  pageRef: /pages/video-test
+  weight: 10
