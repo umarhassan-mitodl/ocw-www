@@ -1,0 +1,9 @@
+mainmenu:
+- identifier: 10e03c44-cf7a-4198-89a7-4544932d33b0
+  name: test
+  pageRef: /pages/video-test
+  weight: 10
+- identifier: 43451cfd-26c4-446e-a0e2-58c0a789da05
+  name: hfhgf
+  pageRef: /course-lists/ibrahim-course-list-test
+  weight: 20
