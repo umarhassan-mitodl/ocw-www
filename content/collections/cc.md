@@ -11,7 +11,7 @@ draft: false
 featured-courses:
   content: ''
   website: ocw-www
-title: CC
-uid: 55c9ae0d-aa63-4782-ae97-54c8a50a7c8f
+title: cc
+uid: a86e60c9-5392-4cc8-956a-66c44da7850f
 ---
 cc
