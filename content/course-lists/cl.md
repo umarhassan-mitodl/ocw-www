@@ -1,6 +1,8 @@
 ---
 content_type: course-lists
-courses: []
+courses:
+- id: courses/test
+  title: test
 description: cl
 draft: false
 title: cl
