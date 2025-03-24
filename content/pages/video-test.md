@@ -2,6 +2,7 @@
 content_type: page
 description: This is description for test video
 draft: true
+file: /ocw-www
 title: video test
 uid: 10e03c44-cf7a-4198-89a7-4544932d33b0
 ---

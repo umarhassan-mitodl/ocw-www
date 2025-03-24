@@ -2,6 +2,7 @@
 content_type: resource_collections
 description: rc
 draft: false
+file: /ocw-www
 resources:
   content: []
   website: ocw-www

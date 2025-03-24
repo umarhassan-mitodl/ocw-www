@@ -9,6 +9,7 @@ courses:
   title: Music Since 1960
 description: description of CL
 draft: false
+file: /ocw-www
 title: Ibrahim Course List Test
 uid: 43451cfd-26c4-446e-a0e2-58c0a789da05
 ---
