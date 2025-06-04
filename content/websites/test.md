@@ -3,7 +3,7 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: testt
+course_description: test
 course_image:
   content: ''
   website: test
@@ -25,7 +25,7 @@ primary_course_number: '1'
 term: Spring
 title: test
 topics: []
-uid: 402ae96d-4a64-4f91-8725-d3870c360f8a
+uid: 0e65764f-d58c-4ac8-9e9b-d8f56da3ed36
 url_path: courses/1-test-spring-2001
 year: '2001'
 ---
