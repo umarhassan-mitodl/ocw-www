@@ -25,7 +25,7 @@ primary_course_number: '1'
 term: Spring
 title: test
 topics: []
-uid: ac14fd53-804f-430f-8e88-b441dd9327fb
+uid: be2ed8d1-9dc1-4c81-9cb3-b374b5c3ae6c
 url_path: courses/1-test-spring-2001
 year: '2001'
 ---
