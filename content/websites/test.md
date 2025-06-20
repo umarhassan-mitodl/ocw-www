@@ -19,13 +19,13 @@ instructors:
 learning_resource_types: []
 legacy_uid: ''
 level:
-- Undergraduate
+- Graduate
 mit_learn_topics: []
 primary_course_number: '1'
 term: Spring
 title: test
 topics: []
-uid: 8c1b6046-680e-4c5f-937d-04666076f85d
+uid: 071b51a6-9ebe-4df4-b1f6-7033bf27ead0
 url_path: courses/1-test-spring-2001
 year: '2001'
 ---
