@@ -13,11 +13,10 @@ department_numbers:
 extra_course_numbers: ''
 hide_download: false
 instructors:
-  content:
-  - bffae8b3-f455-4ef3-9d06-208e75f64af3
-  website: ocw-www
+  content: []
+  website: test
 learning_resource_types:
-- Activity Assignments
+- Course Introduction
 legacy_uid: ''
 level:
 - Undergraduate
@@ -26,7 +25,7 @@ primary_course_number: '1'
 term: Spring
 title: test
 topics: []
-uid: 67f4ccf3-b019-4621-9555-616327b16a3d
+uid: 5dbb2e69-8e0f-48f2-9362-8d07cb9a391f
 url_path: courses/1-test-spring-2001
 year: '2001'
 ---
