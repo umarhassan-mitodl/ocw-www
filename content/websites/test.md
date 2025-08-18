@@ -12,7 +12,7 @@ department_numbers:
 - '1'
 draft: true
 extra_course_numbers: ''
-hide_download: false
+hide_download: true
 instructors:
   content: []
   website: test
