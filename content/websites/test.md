@@ -10,7 +10,6 @@ course_image:
 course_title: test
 department_numbers:
 - '1'
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:
