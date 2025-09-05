@@ -12,7 +12,7 @@ department_numbers:
 - '1'
 draft: true
 extra_course_numbers: ''
-hide_download: true
+hide_download: false
 instructors:
   content: []
   website: test-title
@@ -25,7 +25,7 @@ primary_course_number: pri
 term: Spring
 title: test-course-title
 topics: []
-uid: 8e256144-2ebb-45b8-b235-f739adc938e4
+uid: a4e5ec6b-3418-4360-9c2b-b73e06779f85
 url_path: courses/pri-test-course-title-spring-2001
 year: '2001'
 ---
