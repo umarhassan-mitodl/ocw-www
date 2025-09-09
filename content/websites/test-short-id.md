@@ -11,11 +11,12 @@ course_title: test-course-title
 department_numbers:
 - '1'
 extra_course_numbers: ''
-hide_download: true
+hide_download: false
 instructors:
   content: []
   website: test-title
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments
 legacy_uid: ''
 level:
 - Undergraduate
@@ -24,7 +25,7 @@ primary_course_number: pri
 term: Spring
 title: test-course-title
 topics: []
-uid: ccbaca45-4e45-43c5-933d-3af0a7fc646a
+uid: eb0f4427-5761-4175-9c50-21d11c782472
 url_path: courses/pri-test-course-title-spring-2001
 year: '2001'
 ---
