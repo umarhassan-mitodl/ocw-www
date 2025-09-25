@@ -1,0 +1,64 @@
+---
+_build:
+  list: true
+  render: false
+content_type: website
+course_description: 'In the course we will use a feminist interdisciplinary lens and
+  invite students to look critically at how practices like privatization, shrinking
+  public "safety nets", de-regulation, and the commodification of health services
+  intersect inevitably with gender, race and class, for both men and women. We will
+  draw on a blend of empirical studies, policy materials, films and guest speakers
+  to examine specific health issues like menstrual health, corporate obstetrics, abortion,
+  obesity, intersex, harassment and other forms of gendered violence, mental health
+  and stress, parent-child attachment, as well as ethics and pharmaceuticals.
+
+
+  **The Graduate Consortium in Women''s Studies (GCWS)**
+
+
+  This course is part of the Graduate Consortium in Women''s Studies. The GCWS at
+  MIT brings together scholars and teachers at nine degree-granting institutions in
+  the Boston area who are devoted to graduate teaching and research in Women''s Studies
+  and to advancing interdisciplinary Women''s Studies scholarship. Learn more about
+  the [GCWS](http://web.mit.edu/gcws/about/index.html).'
+course_image:
+  content: 9ecc7bb5-9ba9-cfe7-d503-9f43b0559119
+  website: wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014
+course_image_thumbnail:
+  content: 10c6a9d3-3b06-70e6-1e30-291f0525a88c
+  website: wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014
+course_title: Gender, Health and Marginalization Through a Critical Feminist Lens
+department_numbers:
+- WGS
+extra_course_numbers: ''
+instructors:
+  content:
+  - ea2fcb65-1405-9c36-a6f4-cfd65d1ea01d
+  - c827cc96-96dd-9117-4c73-2833d93c5ba2
+  - f61a787b-1ce0-15d4-f5bb-d3e67080d921
+  website: ocw-www
+learning_resource_types:
+- Presentation Assignments
+- Written Assignments
+- Instructor Insights
+legacy_uid: 9aab80c7-661c-e698-81ee-f7f46fc79d20
+level:
+- Graduate
+primary_course_number: WGS.645
+term: Fall
+title: Gender, Health and Marginalization Through a Critical Feminist Lens
+topics:
+- - Health and Medicine
+  - Health and Exercise Science
+- - Health and Medicine
+  - Mental Health
+- - Health and Medicine
+  - Public Health
+- - Health and Medicine
+  - Social Medicine
+- - Society
+  - Gender Studies
+uid: d2738254-cb52-4c2c-9420-a0ff33126423
+url_path: courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014
+year: '2014'
+---
