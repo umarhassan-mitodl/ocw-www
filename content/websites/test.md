@@ -12,12 +12,12 @@ department_numbers:
 - '1'
 draft: true
 extra_course_numbers: ''
-hide_download: false
+hide_download: true
+hide_download_original: true
 instructors:
   content: []
   website: test
-learning_resource_types:
-- Activity Assignments
+learning_resource_types: []
 legacy_uid: ''
 level:
 - Undergraduate
@@ -26,7 +26,7 @@ primary_course_number: '1'
 term: Spring
 title: test
 topics: []
-uid: 9152016e-2607-470e-a9cb-009b75b417c8
+uid: bf20866d-4b31-4bae-8e5c-2205921663b8
 url_path: courses/1-test-spring-2001
 year: '2001'
 ---
