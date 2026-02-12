@@ -11,10 +11,11 @@ course_title: test
 department_numbers:
 - '1'
 extra_course_numbers: ''
-hide_download: false
+hide_download: true
 instructors:
-  content: []
-  website: test
+  content:
+  - 0dcfed51-9207-4afc-bd1c-6c348ddfdbec
+  website: ocw-www
 learning_resource_types: []
 legacy_uid: ''
 level:
