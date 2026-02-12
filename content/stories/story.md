@@ -2,7 +2,7 @@
 content_type: stories
 draft: false
 image:
-  content: ''
+  content: e872f94a-e154-4c8a-a6bd-c62f28e5411d
   website: ocw-www
 is_quote: false
 leadquote: ''
