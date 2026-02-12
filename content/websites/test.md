@@ -5,18 +5,16 @@ _build:
 content_type: website
 course_description: test
 course_image:
-  content: ''
+  content: 39c08dc0-8739-4353-a89b-1040c1d56540
   website: test
 course_title: test
 department_numbers:
-- '10'
-draft: true
+- '1'
 extra_course_numbers: ''
 hide_download: false
 instructors:
-  content:
-  - ccf55716-15f1-4dff-9044-6ec4a415457a
-  website: ocw-www
+  content: []
+  website: test
 learning_resource_types: []
 legacy_uid: ''
 level:
@@ -26,7 +24,7 @@ primary_course_number: pri
 term: Spring
 title: test
 topics: []
-uid: f2ffb3e0-1355-41c9-9473-7d5dd95c564b
+uid: 5123b3e8-8ee3-46b3-9e01-1a2ac1625e59
 url_path: courses/pri-test-spring-2001
 year: '2001'
 ---
