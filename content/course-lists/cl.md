@@ -1,6 +1,8 @@
 ---
 content_type: course-lists
-courses: []
+courses:
+- id: courses/pri-test-spring-2001
+  title: test
 description: ''
 draft: false
 title: Cl
