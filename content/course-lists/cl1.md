@@ -1,9 +1,6 @@
 ---
 content_type: course-lists
-courses:
-- id: courses/pri-test-spring-2001
-  text_id: 60ba673c-8af6-46bf-8ae3-60b5f422d33b
-  title: test
+courses: []
 description: cl2
 draft: false
 title: cl1
