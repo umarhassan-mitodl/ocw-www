@@ -2,10 +2,11 @@
 _build:
   list: true
   render: false
+audience: []
 content_type: website
 course_description: test
 course_image:
-  content: 39c08dc0-8739-4353-a89b-1040c1d56540
+  content: ''
   website: test
 course_title: test
 department_numbers:
@@ -13,19 +14,18 @@ department_numbers:
 extra_course_numbers: ''
 hide_download: false
 instructors:
-  content:
-  - 0dcfed51-9207-4afc-bd1c-6c348ddfdbec
-  website: ocw-www
+  content: []
+  website: test
 learning_resource_types: []
 legacy_uid: ''
 level:
 - Undergraduate
 mit_learn_topics: []
-primary_course_number: pri
+primary_course_number: '1'
 term: Spring
 title: test
 topics: []
-uid: 0494bb6d-1305-442c-9340-5722589cb41c
-url_path: courses/pri-test-spring-2001
+uid: a90732d5-7a70-4ecf-b38f-a955b1ee87bd
+url_path: courses/1-test-spring-2001
 year: '2001'
 ---
