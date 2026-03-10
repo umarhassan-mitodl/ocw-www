@@ -1,7 +1,8 @@
 ---
 content_type: course-collection
 courselists:
-  content: []
+  content:
+  - e9e8b3e2-456b-478b-a0bc-2eedb27a5d7c
   website: ocw-www
 cover-image:
   content: ''
