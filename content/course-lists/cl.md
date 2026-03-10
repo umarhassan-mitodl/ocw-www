@@ -1,6 +1,8 @@
 ---
 content_type: course-lists
-courses: []
+courses:
+- id: courses/1-test-spring-2001
+  title: test
 description: cl
 draft: false
 title: cl
