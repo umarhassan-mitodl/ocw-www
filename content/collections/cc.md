@@ -2,16 +2,16 @@
 content_type: course-collection
 courselists:
   content:
-  - 9eac9cff-ae52-4965-a6e6-f7c21e3d5b0e
+  - e9e8b3e2-456b-478b-a0bc-2eedb27a5d7c
   website: ocw-www
 cover-image:
-  content: e872f94a-e154-4c8a-a6bd-c62f28e5411d
+  content: ''
   website: ocw-www
-description: ''
+description: cc
 draft: false
 featured-courses:
-  content: 9eac9cff-ae52-4965-a6e6-f7c21e3d5b0e
+  content: e9e8b3e2-456b-478b-a0bc-2eedb27a5d7c
   website: ocw-www
 title: cc
-uid: f16fa1cf-3167-4769-b219-53284e655a81
+uid: 9fe36a45-2b59-4095-87e1-f397ed1b09fd
 ---
