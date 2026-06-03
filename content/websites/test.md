@@ -11,6 +11,7 @@ course_image:
 course_title: test
 department_numbers:
 - '1'
+draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:
@@ -25,7 +26,7 @@ primary_course_number: '1'
 term: Spring
 title: test
 topics: []
-uid: a90732d5-7a70-4ecf-b38f-a955b1ee87bd
+uid: 9e6b76ed-75f8-4b87-a608-b41f75348975
 url_path: courses/1-test-spring-2001
 year: '2001'
 ---
